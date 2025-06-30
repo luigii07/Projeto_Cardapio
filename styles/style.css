@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    font-family: 'Poppins', 'sans-serif';
+    background: #F6F7F8;
+}
+
+.bg-home {
+  background-image: url('/assets/bg.png');
+}
